@@ -37,7 +37,7 @@ public class BalanceCount{
 
         Thread.sleep(1);//让set先抢到锁
 
-        //输出
+
         System.out.println(balanceCount.getCount());//
 
 
