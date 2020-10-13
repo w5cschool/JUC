@@ -39,7 +39,7 @@ public class BalanceCount{
 
         System.out.println(balanceCount.getCount());//
 
-        //获取count
+
         Thread.sleep(2000);
         System.out.println(balanceCount.getCount());
 
